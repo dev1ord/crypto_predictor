@@ -44,7 +44,6 @@ We use:
 
 Clone the repository:  
 ```bash
-git clone https://github.com/siddarthagorentla/Bitcoin_Price_Predictor.git
 cd Bitcoin_Price_Predictor
 
 
@@ -56,10 +55,7 @@ venv\Scripts\activate
 
 Installing Dependencies:
 
-pip install -r requirements.txt
-
-USAGE: python predict_bitcoin.py
-
+python model/bitcoin_price_predictor_enhanced.py
 📈 Results
 
 Performance is measured using:
