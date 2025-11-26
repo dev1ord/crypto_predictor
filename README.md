@@ -68,9 +68,7 @@ MAE – Mean Absolute Error
 
 📊 Graphs and comparison tables will be stored in the results/ directory after execution.
 📬 Contact
-👤 Siddartha Gorentla
-📧 Email: siddarthagorentla@gmail.com
-🔗 GitHub: siddarthagorentla
+
 
 Deployed Images : 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc107997-f118-4945-ac17-2015c711a7f7" />
