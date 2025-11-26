@@ -44,8 +44,7 @@ We use:
 
 Clone the repository:  
 ```bash
-cd Bitcoin_Price_Predictor
-
+cd model
 
 python -m venv venv
 # On Linux/Mac
@@ -55,7 +54,7 @@ venv\Scripts\activate
 
 Installing Dependencies:
 
-python model/bitcoin_price_predictor_enhanced.py
+python bitcoin_price_predictor_enhanced.py
 📈 Results
 
 Performance is measured using:
@@ -67,8 +66,6 @@ RMSE – Root Mean Squared Error
 MAE – Mean Absolute Error
 
 📊 Graphs and comparison tables will be stored in the results/ directory after execution.
-📬 Contact
-
 
 Deployed Images : 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc107997-f118-4945-ac17-2015c711a7f7" />
